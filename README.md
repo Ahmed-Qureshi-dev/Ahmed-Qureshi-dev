@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on CODE-X <br>👯🌱 I’m currently learning REACT JS <br>💬 Ask me about ?<br>⚡ Fun fact I’m Ahmad Qureshi, a coder who’s always turning ideas into one-line wonders!
 
 
 ## 🌐 Socials:
